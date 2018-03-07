@@ -1,2 +1,32 @@
-# Work-hub
-Central hub used for work easy links 
+<!doctype html>
+<html>
+<style>
+body   {background-color:#bbc8be;   }
+h1#title   {text-align:center;   font-family:gungsuh;   }
+p#titlep  {text-align:center;   box-shadow: #66717F 0px 5px 29px -5px;   margin: auto;   position: absolute;   top: 1; left: 0; bottom: 10; right: 0;   background-color:#e5e5e5;width:20%;   }
+p#titleleft  {text-align:center;   box-shadow: #66717F 0px 5px 29px -5px;   margin: auto;   position: absolute;   width: 7.5%;   height: 2.5%;   left: 365px;   top: 275px;   background-color:#e5e5e5;   }
+p#titleright  {text-align:center;   box-shadow: #66717F 0px 5px 29px -5px;   margin: auto;   position: absolute;   width: 7.5%;   height: 2.5%;   right: 366px;   top: 275px;   background-color:#e5e5e5;   }
+p#coretitle  {text-align:center;   box-shadow: #66717F 0px 5px 29px -5px;   margin: auto;   position: absolute;   width: 7.5%;   height: 2.5%;   right: 950px;   top: 145px;   background-color:#e5e5e5;   }
+p#bottitle  {text-align:center;    box-shadow: #66717F 0px 5px 29px -5px;    margin: auto;    position: absolute;    width:7.5%;    height: 2.5%;    right:950px;    top:455px;    background-color:#e5e5e5;    }      
+.label   {   display: block;   height: 600px;   width: 320px;   margin: auto;   position: absolute;   top: -3.5%; left: 0; bottom: 0; right: 0.5%;   }
+.content   {   background-color: #E5E5E5;   box-shadow: #66717F 0px 5px 29px -5px;   position: relative;   overflow: hidden;   width: 100%;   float: left;   display: inline-block;   z-index: 10;   background-color:#e5e5e5;   }
+#banner   {   position: absolute;    top: 650px;    left: 0px;    right: 0px;    width: 100%;    height: 200px;   }
+.addcontentleft  {   background-color: #E5E5E5;   box-shadow: #66717F 0px 5px 29px -5px;   position: relative;   overflow: hidden;   width: 15%;   float: left;   left: 300px;   top: 210px;   display: block;   z-index: 10;   background-color:#e5e5e5;   }
+.addcontentright {   background-color: #E5E5E5;   box-shadow: #66717F 0px 5px 29px -5px;   overflow: hidden;   position: relative;   width: 15%;   float: right;   right: 300px;   top: 210px;   display: block;   z-index: 10;   background-color:#e5e5e5;   }
+.addcontentbot  {     background-color: #E5E5E5;     box-shadow: #66717F 0px 5px 29px -5px;     position: relative;     overflow: hidden;     width: 16%;     float: left;     left: 535px;     top: 390px;     display: block;     z-index: 10;     background-color:#e5e5e5;     }              .contentprinter  {     background-color: #E5E5E5;     box-shadow: #66717F 0px 5px 29px -5px;     position: relative;     overflow: hidden;     width: 10%;     float: left;     left: -550px;     top: 800px;     display: block;     z-index: 10;     background-color:#e5e5e5;     }                    #gmail    {     position: absolute;     top: 900px;     left: 1800px;     width: 1.75%;     height: 30px;     } 
+#news    {     position: absolute;     top: 900px;     left: 1850px;     width: 1.75%;     height: 30px;     }
+#reddit    {     position: absolute;     top: 1px;     left: 1995px;     width: 1.25%;     height: 20px;     }     
+a:hover  {background-color: powderblue;   }       .titlefun  {text-align:right;    box-shadow: #66717F 0px 5px 29px -5px;    margin: auto;    position: absolute;    top: 0; left: 0; bottom: 10; right: 10;    background-color:#e5e5e5;width:20%;    }
+</style>
+<head> <title>Daniel's Sulzer Hub</title>
+</head>
+<body>
+ <h1 id="title"> Daniel's <a href="https://www.sulzer.com/"><img src="https://www.sulzer.com/-/media/project/sulzerevolution/sulzer.ashx?h=24&w=143&hash=B81BF3FCDC12710D85677B624E2AD02DC319CFCC"></a> Hub</h1>  <hr> <p id="titlep"><b>Links you can use</b></p>
+ <p><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="C:\Users\hoardan\Desktop\pngs html\gmail.png" id="gmail" alt="gmail"></a></p> <p><a href="http://www.reddit.com/r/askreddit/" target="_blank"><img src="C:\Users\hoardan\Desktop\pngs html\reddit.jpg" id="reddit" alt="Reddit"></a></p>  <p id="coretitle"><b><u>Core Links to use</u></b></p>
+ <table>  <div class="label">   <div class="content">       <ul>    <li><a href="http://cnshasrv009.sulzer.com/index.aspx" target="_blank">Webpipe</a></li>    <li><a href="http://delohsrv021/DocuWare/" target="_blank">Docuware</a></li>    <li><a href="http://plaza.sulzer.com/Workspaces/WS_000052/CAD%20Drawings/Forms/AllItems.aspx?RootFolder=%2FWorkspaces%2FWS_000052%2FCAD%20Drawings%2FCAD-Drawings%20%28SPIRL%2BSPLMR%29%2FDrawings&FolderCTID=0x012000244CD33318959B4F939C71FFDB5F1497&View=%7BC86757A3-56BE-4C10-B807-46A6DEB8FF78%7D">CAD Drawings</a></li>    <li><a href="https://sulzer.service-now.com/ess/" target="_blank">IT Help Desk</a></li></ul>
+     <!--'_blank' is a security risk, remember what Steve told you, but dont worry, if its on a local drive with no IP you should be safe-->   </ul>   </div>  </div>     </table>   <p id="titleleft"><u><b>Sulzer Plaza</b></u></p>  <table>  <div class="addcontentleft">    <ul>   <li><a href="https://performancemanager5.successfactors.eu/login#/companyEntry" target="_blank">Success Factors</a></li>   <li><a href="http://plaza.sulzer.com/Workspaces/WS_000056/SitePages/Configured%20and%20Standard%20Factories/Wexford.aspx" target="_blank">Ireland (IEM)</a></li>   <li><a href="http://plaza.sulzer.com/Workspaces/WS_000056/SitePages/Configured%20and%20Standard%20Factories/Kunshan.aspx" target="_blank">China(Kunshan)</a></li>  </ul>  </div> </table>
+ <p id="titleright"><u><b>G Drive items</b></u></p>
+ <table>  <div class="addcontentright">
+  <ul>   <li><a href="G:\Common\SALES\NEW BUSINESS TENDERS\2018\_Small Quotes">Tender Dan</a></li>   <li><a href="G:\Common\TECHNICAL_SUPPORT\ABS Tech library 2011">Tech Library</a></li>     </div> </table>   <p id="bottitle"><u><b>Freight Quotes</u></b></p>  <table>  <div class="addcontentbot">    <ul>   <li><a href="https://www.kn-portal.com/seafreight/kn_freightnet_for_lcl/" target="_blank">Sea-freight quotes</a></li>   <li><a href="https://www.kn-portal.com/airfreight/" target="_blank"> Air-freight</a></li>    </div>   </table>  <table>  <div class="contentprinter">    <ul>   <li><a href="https://10.135.146.22/" target="_blank">Printer Settings</a></u></b>  </ul>    </div> </table>  <div class="titelfun">      <ul>    <li><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="C:\Users\hoardan\Desktop\pngs html\gmail.png" id="gmail" alt="gmail"></a></li>       </ul>   </div>     <img id="banner" src="CityLine.jpg" alt="City Banner">    <!-- Banner and links might clash depending on the size/resolution of the monitor it is displayed on, this will be fixed-->
+      </body>
+</html>
